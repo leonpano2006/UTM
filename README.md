@@ -9,4 +9,4 @@ plain qemu is too hard to use
 
 ##THIS PAGE IS WORK IN PORGESS 
 
-user argeement: no fork for add zh-cn support (fuck you china and zh-cn)
+user argeement: no fork for adding zh-cn support (fuck you china and zh-cn)
